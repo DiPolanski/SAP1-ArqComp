@@ -1,1 +1,1 @@
-# SAP1-ArqComp
+Prejeto do SAP1, com um decrementador adicioando.
